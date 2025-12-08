@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"local-mcp": {
+			"type": "http",
+			"url": "http://localhost:8000/sse"
+		},
+		"online-mcp": {
+      "type": "http",
+			"url": "https://servidor-mcp-b-sico.onrender.com/sse"
+		}
+	}
+}

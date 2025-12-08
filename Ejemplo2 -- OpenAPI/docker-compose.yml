@@ -1,0 +1,38 @@
+services:
+  inventario:
+    image: inventario-service
+    build:
+      context: ./inventario
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/inventario_db
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: 12345
+    depends_on:
+      - postgres
+    networks:
+      - backend
+  servidormcp:
+    image: servidor-mcp
+    build:
+      context: ./servidorMCP
+    ports:
+      - "8001:8001"
+    networks:
+      - backend
+    depends_on:
+      - inventario
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: inventario_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 12345
+    ports:
+      - "5432:5432"
+    networks:
+      - backend
+networks:
+  backend:
+    driver: bridge
