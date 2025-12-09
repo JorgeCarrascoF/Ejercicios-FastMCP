@@ -1,0 +1,523 @@
+Marvin Harris
+Vacas, cerdos,
+guerras y brujas
+Los enigmas de la cultura
+Título original: Cows, Pigs, Wars and Witches:
+The Riddles of Culture. Publicado por acuerdo de
+Random House, Inc.
+Traducción de: Juan Oliver Sánchez-Fernández
+Primera edición: 1980
+Tercera edición: 2011
+Sexta reimpresión: 2019
+Diseño de colección: Estudio de Manuel Estrada con la colaboración de Roberto
+Turégano y Lynda Bozarth
+Diseño cubierta: Manuel Estrada
+Reservados todos los derechos. El contenido de esta obra está protegido por la Ley, que establece penas
+de prisión y/o multas, además de las correspondientes indemnizaciones por daños y perjuicios, para
+quienes reprodujeren, plagiaren, distribuyeren o comunicaren públicamente, en todo o en parte, una
+obra literaria, artística o científica, o su transformación, interpretación o ejecución artística fijada en
+cualquier tipo de soporte o comunicada a través de cualquier medio, sin la preceptiva autorización.
+© Herederos de Marvin Harris
+© Alianza Editorial, S. A., Madrid, 1980, 2019
+Calle Juan Ignacio Luca de Tena, 15
+28027 Madrid
+www.alianzaeditorial.es
+ISBN: 978-84-206-7439-1
+Depósito legal: B. 42.358-2010
+Printed in Spain
+Si quiere recibir información periódica sobre las novedades de Alianza Editorial,
+envíe un correo electrónico a la dirección: alianzaeditorial@anaya.es
+7
+Índice
+9 Prefacio
+13 Prólogo
+19 La madre vaca
+46 Porcofilia y porcofobia
+73 La guerra primitiva
+97 El macho salvaje
+126 El potlatch
+150 El cargo fantasma
+173 Mesías
+196 El secreto del Príncipe de la Paz
+225 Escobas y aquelarres
+242 La gran locura de las brujas
+277 Epílogo
+285 Bibliografía
+
+9
+Prefacio
+Había acabado precisamente de intentar convencer a
+una clase de estudiantes de que existía una explicación
+racional del tabú hindú sobre el sacrificio de las vacas.
+Estaba seguro de haber salido al paso de todas las obje
+ciones imaginables. Rebosante de confianza, pregunté si
+alguien quería formular alguna pregunta. Un joven agi
+tado levantó su mano. «Pero, ¿qué opina del tabú judío
+sobre la carne de cerdo?»
+Unos meses más tarde emprendí una investigación que
+pretendía explicar por qué los judíos y musulmanes abo
+rrecen la carne de cerdo. Tardé cerca de un año antes de dis
+ponerme a poner a prueba mis ideas ante un grupo de co
+legas. Tan pronto como dejé de hablar, un amigo mío,
+experto en los indios de Sudamérica, dijo: «Pero, ¿qué
+opina del tabú de los tapirapé sobre la carne de venado?».
+Y lo mismo sucedió con cada uno de los enigmas para
+los que he intentado encontrar una explicación práctica.
+10Vacas, cerdos, guerras y brujas
+Tan pronto como acabo de explicar un estilo de vida o
+una costumbre previamente inescrutable, alguien con
+traataca con otra:
+–Bien, quizás esto vale para el potlatch entre los kwa
+kiutl, pero, ¿cómo explica la guerra entre los yanoma
+mo?
+–Creo que puede existir un déficit de proteínas...
+–Pero, ¿qué opina de los cultos cargo en las Nuevas
+Hébridas?
+Las explicaciones de los estilos de vida son como las
+patatas fritas. La gente insiste en comérselas hasta acabar
+con toda la bolsa.
+Ésta es una de las razones por las que este libro pasa de
+un tema a otro. Desde la India hasta el Amazonas, y des
+de Jesús hasta Carlos Castaneda. Pero persisten algunas
+diferencias en comparación con la bolsa de patatas fritas.
+En primer lugar, aconsejo no arrancar en el primer lugar
+que se os antoje. Mi explicación de las brujas depende
+de la explicación de los mesías, y ésta de la explicación de
+los «grandes hombres», que a su vez depende de la ex
+plicación del sexismo, la cual depende de la explicación
+del amor a los cerdos, que depende de la explicación del
+aborrecimiento de los cerdos, que a su vez depende de la
+explicación del amor a las vacas. No se trata de que el
+mundo empezara con el amor a las vacas, sino que en mi
+propio intento por comprender las causas de los estilos
+de vida, es por lo que he empezado... Así que, por favor,
+no tratéis de empezar al azar.
+Es importante que los capítulos de este libro se consi
+deren como fundados unos en otros y con un efecto acu
+mulativo. De lo contrario, no tendré ninguna defensa
+11
+Prefacio
+contra la paliza que seguramente querrán propinarme
+los expertos en una docena de campos y disciplinas.
+Respeto a los expertos y quiero aprender de ellos. Pero
+pueden ser tanto un estorbo como una ventaja si hay que
+depender de varios de ellos a la vez. ¿Habéis intentado
+alguna vez preguntar a un especialista en hinduismo so
+bre el amor a los cerdos en Nueva Guinea, o a una auto
+ridad en Nueva Guinea sobre el aborrecimiento de los
+cerdos entre los judíos, o a un experto en judaísmo sobre
+los mesías en Nueva Guinea? (Es propio de la bestia an
+siar una sola patata frita para toda su vida.)
+Mi justificación para aventurarme a través de discipli
+nas, continentes y siglos es que el mundo se extiende a
+través de disciplinas, continentes y siglos. Nada hay en la
+naturaleza tan completamente diferente como dos con
+juntos de juicios de expertos.
+Respeto la obra de los estudiosos individuales que am
+plían y perfeccionan pacientemente sus conocimientos
+de un solo siglo, tribu o personalidad, pero pienso que
+estos esfuerzos deben ser más sensibles a los problemas
+de ámbito general y comparativo. La incapacidad mani
+fiesta de nuestro superespecializado establishment cien
+tífico para decir algo coherente sobre las causas de los
+estilos de vida no tiene su origen en ninguna anarquía in
+trínseca de los fenómenos de los estilos de vida. Más
+bien creo que es el resultado de otorgar recompensas
+como premio a especialistas que nunca amenazan un he
+cho con una teoría. Una relación proporcional como la
+que existe desde hace algún tiempo entre la magnitud de
+la investigación social y la profundidad de la confusión
+social sólo puede significar una cosa: la función social
+12Vacas, cerdos, guerras y brujas
+global de toda esa investigación es impedir que la gente
+comprenda las causas de su vida social.
+Las autoridades del establishment del saber insisten en
+que este estado de confusión se debe a una falta de estu
+dios. Pronto se celebrará un seminario en el cielo basado
+en diez mil nuevos viajes de campo. Pero sabremos me
+nos, no más, si estos estudios se hacen con la suya. Sin
+una estrategia que pretenda llenar el vacío entre las espe
+cialidades y organizar los conocimientos existentes si
+guiendo líneas teóricamente coherentes, la investigación
+adicional no conducirá a una mejor comprensión de las
+causas de los estilos de vida. Si buscamos realmente ex
+plicaciones causales, debemos tener al menos alguna
+idea aproximada de hacia dónde debemos mirar entre
+los hechos potencialmente inagotables de la naturaleza y
+la cultura. Espero que algún día se descubrirá que mi
+propia obra ha contribuido al desarrollo de esta estrate
+gia, mostrando a dónde mirar.
+13
+Prólogo
+Este libro trata de las causas de estilos de vida aparente
+mente irracionales e inexplicables. Algunas de estas cos
+tumbres enigmáticas aparecen entre pueblos sin escritu
+ra o «primitivos»: por ejemplo, los jactanciosos jefes
+amerindios que queman sus bienes para mostrar cuan ri
+cos son. Otras pertenecen a sociedades en vías de desa
+rrollo, entre las cuales mi tema predilecto es el de los
+hindúes que rehúsan comer carne de vaca aun cuando se
+estén muriendo de hambre. Sin embargo, otras aluden a
+mesías y brujas que forman parte de la corriente princi
+pal de nuestra propia civilización. Para confirmar mi
+punto de vista, he elegido deliberadamente casos raros y
+controvertidos que parecen enigmas insolubles.
+Nuestra época afirma ser víctima de una sobredosis de
+intelecto. Con un espíritu vengativo, los estudiosos tra
+bajan afanosamente en intentar mostrar que la ciencia y
+la razón no pueden explicar variaciones en los estilos de
+14Vacas, cerdos, guerras y brujas
+vida humanos. Y así, se ha puesto de moda insistir en que
+los enigmas examinados en los capítulos que siguen no
+tienen ninguna solución. Quien preparó el terreno para
+gran parte de este pensamiento actual sobre los enigmas
+de los estilos de vida fue Ruth Benedict con su libro Pat-
+terns of Culture. Para explicar las sorprendentes diferen
+cias entre las culturas de los kwakiutl, los dobuanos y los
+zuñi, Benedict recurrió a un mito que atribuyó a los in
+dios digger. El mito decía: «Dios otorgó a cada pueblo
+una taza, una taza de arcilla, y de esta taza bebieron su
+vida... Todos hundían las tazas en el agua, pero cada taza
+era diferente». Desde entonces esto ha significado para
+mucha gente que sólo Dios sabe por qué los kwakiutl
+queman sus casas, por qué los hindúes se abstienen de
+comer carne de vaca, los judíos y musulmanes aborrecen
+la carne de cerdo, o por qué algunas gentes creen en me
+sías mientras otras creen en brujas. El efecto práctico a
+largo plazo de esta sugerencia ha sido desalentar la bús
+queda de otro tipo de explicaciones. Pero una cosa está
+clara: si pensamos que un enigma no tiene una respuesta,
+nunca la encontraremos.
+Para explicar pautas culturales diferentes tenemos que
+empezar suponiendo que la vida humana no es simple
+mente azarosa o caprichosa. Sin este supuesto, pronto se
+vuelve irresistible la tentación de renunciar a la tarea
+cuando afrontamos una costumbre o una institución que
+persiste en su carácter inescrutable. Con los años he des
+cubierto que los estilos de vida que otros consideraban
+como totalmente inescrutables tenían en realidad causas
+definidas y fácilmente inteligibles. La principal razón
+por la que se han pasado por alto estas causas durante
+15
+Prólogo
+tanto tiempo es la de que todo el mundo está convencido
+de que «sólo Dios conoce la respuesta».
+Otra razón por la que muchas costumbres e institucio
+nes parecen tan misteriosas estriba en que se nos ha en
+señado a valorar explicaciones «espiritualizadas» de los
+fenómenos culturales en vez de explicaciones materiales
+de tipo práctico. Sostengo que la solución de cada uno
+de los enigmas examinados en este libro radica en una
+mejor comprensión de las circunstancias prácticas. Y
+mostraré que un estudio más minucioso de las creencias
+y prácticas que parecen más raras revela que éstas se ha
+llan fundadas en condiciones, necesidades y actividades
+ordinarias, triviales, podríamos decir «vulgares». En
+tiendo por solución trivial o vulgar la que se apoya en la
+tierra y está integrada por tripas, sexo, energía, viento,
+lluvia y otros fenómenos palpables y ordinarios.
+Esto no significa que las soluciones que vamos a presen
+tar sean en cierto sentido simples o evidentes. Ni mucho
+menos. La identificación de los factores materiales perti
+nentes en los acontecimientos humanos es siempre una ta
+rea difícil. La vida práctica utiliza muchos disfraces. Cada
+estilo de vida se halla arropado en mitos y leyendas que
+prestan atención a condiciones sobrenaturales o poco prác
+ticas. Estos arropamientos confieren a la gente una identi
+dad social y un sentido de finalidad social, pero ocultan las
+verdades desnudas de la vida social. Los engaños sobre las
+causas mundanas de la cultura pesan sobre la conciencia
+ordinaria como láminas de plomo. Nunca es una tarea fácil
+evitar, penetrar o levantar esta carga opresora.
+En una época ávida por experimentar estados de con
+ciencia alterados, fuera de lo corriente, tendemos a pasar
+16Vacas, cerdos, guerras y brujas
+por alto hasta qué punto nuestro estado mental ordina
+rio es ya una conciencia profundamente mistificada –una
+conciencia aislada de un modo sorprendente de los he
+chos prácticos de la vida–. ¿A qué obedece esto?
+En primer lugar a la ignorancia. La mayor parte de la
+gente sólo es consciente de una pequeña parte de la di
+versidad de alternativas que hay en los estilos de vida. Si
+queremos pasar del mito y la leyenda a la conciencia ma
+dura, tenemos que comparar toda la variedad de cultu
+ras pasadas y presentes. En segundo lugar al miedo. Ante
+sucesos como el envejecimiento y la muerte, la concien
+cia falsa puede ser la única defensa eficaz. Y finalmente
+al conflicto. En la vida social ordinaria algunas personas
+siempre controlan o explotan a otras; estas desigualda
+des se presentan tan disfrazadas, mistificadas y falseadas
+como la vejez y la muerte.
+La ignorancia, el miedo y el conflicto son los elementos
+básicos de la conciencia cotidiana. El arte y la política
+elaboran con estos elementos una construcción onírica
+colectiva cuya función es impedir que la gente compren
+da lo que es su vida social. Por consiguiente, la concien
+cia cotidiana no puede explicarse a sí misma. Su misma
+existencia depende de una capacidad desarrollada para
+negar los hechos que explican su existencia. No espera
+mos que los soñadores expliquen sus sueños; tampoco
+debemos, pues, esperar que los participantes en los esti
+los de vida expliquen sus estilos de vida.
+Algunos antropólogos e historiadores adoptan el pun
+to de vista opuesto. Argumentan que la explicación de
+los propios protagonistas constituye una realidad irre
+ductible. Nos advierten que no debemos tratar jamás la
+17
+Prólogo
+conciencia humana como un «objeto», y que el marco
+científico adecuado para el estudio de la física o de la
+química no es pertinente para el estudio de los estilos de
+vida. Algunos profetas de la moderna «contracultura»
+sostienen incluso que la excesiva «objetivación» es res
+ponsable de las injusticias y desastres de la historia re
+ciente. Uno de ellos afirma que la conciencia objetiva
+siempre conduce a una pérdida de «sensibilidad moral»,
+equiparando así la búsqueda del conocimiento científico
+con el pecado original.
+Nada sería más absurdo. El hambre, la guerra, el sexis
+mo, la tortura y la explotación han estado presentes du
+rante toda la historia y la prehistoria, mucho antes de
+que alguien lanzara la idea de intentar «objetivar» los
+acontecimientos humanos.
+Algunas personas, desilusionadas con los efectos se
+cundarios de la tecnología avanzada, piensan que la cien
+cia es «el estilo de vida dominante en nuestra sociedad».
+Puede que esta afirmación valga para nuestros conoci
+mientos de la naturaleza, pero se equivoca totalmente
+respecto a nuestros conocimientos de la cultura. Por lo
+que se refiere a los estilos de vida, el conocimiento no
+puede ser el pecado original, puesto que todavía perma
+necemos en un estado original de ignorancia.
+Pero permitidme posponer la discusión más extensa
+de las pretensiones de la contracultura hasta el último
+capítulo. Permitidme mostrar primero cómo se puede
+dar una explicación científica de importantes enigmas
+sobre los estilos de vida. Poco ganaremos argumentando
+respecto a teorías que no están fundadas en hechos y
+contextos específicos. Sólo pido un favor: tened presente
+18Vacas, cerdos, guerras y brujas
+que, al igual que cualquier científico, espero presentar
+soluciones probables y razonables, no certeras. Sin em
+bargo, por imperfectas que puedan ser, las soluciones
+probables deben tener prioridad sobre esa inexistencia
+de soluciones que vemos en el mito de los indios digger
+de Benedict. Como cualquier científico, acojo con satis
+facción las explicaciones alternativas, siempre que cum
+plan mejor los requisitos de la demostración científica y
+en la medida que expliquen tanto. Pero empecemos con
+los enigmas.
+19
+La madre vaca
+Siempre que se discute acerca de la influencia de los fac
+tores prácticos y mundanos en los estilos de vida, estoy
+seguro de que alguien dirá: «¿Pero, qué opina de todas
+esas vacas que los campesinos hambrientos de la India
+rehúsan comer?». La imagen de un agricultor harapien
+to que se muere de hambre junto a una gran vaca gorda
+transmite un tranquilizador sentido de misterio a los ob
+servadores occidentales. En innumerables alusiones erudi
+tas y populares, confirma nuestra convicción más profunda
+sobre cómo debe actuar la gente con una mentalidad
+oriental inescrutable. Es alentador saber –algo así como
+«siempre habrá una Inglaterra»– que en la India los va
+lores espirituales son más apreciados que la vida misma.
+Y al mismo tiempo nos produce tristeza. ¿Cómo pode
+mos esperar comprender alguna vez a gente tan diferen
+te de nosotros mismos? La idea de que pudiera haber
+una explicación práctica del amor hindú a las vacas re
+20Vacas, cerdos, guerras y brujas
+sulta más desconcertante para los occidentales que para
+los propios hindúes. La vaca sagrada –¿de qué otra ma
+nera puedo expresarlo?– es una de nuestras vacas sagra
+das favoritas.
+Los hindúes veneran a las vacas porque son el símbolo
+de todo lo que está vivo. Al igual que María es para los
+cristianos la madre de Dios, la vaca es para los hindúes la
+madre de la vida. Así, no hay mayor sacrilegio para un
+hindú que matar una vaca. Ni siquiera el homicidio tiene
+ese significado simbólico de profanación indecible que
+evoca el sacrificio de las vacas.
+Según muchos expertos, el culto a las vacas es la causa
+número uno de la pobreza y el hambre en la India. Algu
+nos agrónomos formados en Occidente dicen que el
+tabú contra el sacrificio de las vacas permite que vivan
+cien millones de animales «inútiles». Afirman que este
+culto merma la eficiencia de la agricultura, porque estos
+animales inútiles no aportan ni leche ni carne, a la vez
+que compiten por las tierras cultivadas y los artículos ali
+menticios con animales útiles y seres humanos ham
+brientos. Un estudio patrocinado por la Fundación Ford
+concluía que se podía estimar que posiblemente sobraba
+la mitad del ganado vacuno en relación con el aprovisio
+namiento de alimentos. Y un economista de la Universi
+dad de Pensilvania declaraba en 1971 que la India tenía
+30 millones de vacas improductivas.
+Parece que sobran una gran cantidad de animales inú
+tiles y antieconómicos, y que esta situación es una conse
+cuencia directa de las irracionales doctrinas hindúes.
+Los turistas en su recorrido por Delhi, Calcuta, Madrás,
+Bombay y otras ciudades de la India se asombran de las
+21
+La madre vaca
+libertades de que goza el ganado vacuno extraviado. Los
+animales deambulan por las calles, comen fuera de los
+establos en el mercado, irrumpen en los jardines públi
+cos, defecan en las aceras y provocan atascos de tráfico si
+se detienen a rumiar en medio de cruces concurridos. En
+el campo, el ganado vacuno se congrega en los arcenes
+de cualquier carretera y pasa la mayor parte de su tiem
+po deambulando despacio a lo largo de las vías del fe
+rrocarril.
+El amor a las vacas afecta a la vida de muchas maneras.
+Los funcionarios del gobierno mantienen asilos para va
+cas en los que los propietarios pueden alojar a sus anima
+les decrépitos sin gasto alguno. En Madrás, la policía
+reúne el ganado extraviado que está enfermo y lo cuida
+hasta que recupera la salud, permitiéndole pastar en pe
+queños campos adyacentes a la estación de ferrocarril.
+Los agricultores consideran a sus vacas como miembros
+de la familia, las adornan con guirnaldas y borlas, rezan
+por ellas cuando se ponen enfermas y llaman a sus veci
+nos y a un sacerdote para celebrar el nacimiento de un
+nuevo becerro. En toda la India los hindúes cuelgan en
+sus paredes calendarios que representan a mujeres jóve
+nes, hermosas y enjoyadas, que tienen cuerpos de gran
+des vacas blancas y gordas. La leche mana de las ubres
+de estas diosas, mitad mujeres, mitad cebúes.
+Empezando por sus hermosos rostros humanos, estas
+vacas de calendario tienen poca semejanza con la típica
+vaca que vemos en realidad. Durante la mayor parte del
+año, sus huesos son su rasgo más acusado, y lo cierto es
+que muy poca leche mana de sus ubres; estos flacos ani
+males apenas logran amamantar un solo becerro hasta la
+22Vacas, cerdos, guerras y brujas
+madurez. La producción media de leche sin desnatar de
+la típica raza gibosa de vaca cebú en la India no sobrepa
+sa los 227 kilos al año. Las vacas lecheras ordinarias ame
+ricanas producen más de 2.267 kilos, y no es raro que las
+campeonas produzcan más de 9.000. Pero esta compara
+ción no esclarece toda la situación. En cualquier año,
+cerca de la mitad de las vacas cebú de la India no dan
+nada de leche, ni siquiera una gota.
+Para agravar la cuestión, el amor a las vacas no estimu
+la el amor al hombre. Puesto que los musulmanes des
+precian la carne de cerdo pero comen la carne de vaca,
+muchos hindúes les consideran asesinos de vacas. Antes
+de la división del subcontinente indio entre la India y el
+Pakistán, estallaban anualmente disturbios sangrientos
+entre las dos comunidades para impedir que los musul
+manes mataran vacas. Recuerdos de disturbios provoca
+dos por vacas (como por ejemplo el de Bihar en 1917, en
+el que murieron 30 personas y fueron saqueadas 170 al
+deas musulmanas hasta la última jamba de la puerta)
+continúan envenenando las relaciones entre la India y el
+Pakistán.
+Aunque deploró los disturbios, Mohandas K. Gandhi
+era un defensor ardiente del amor a las vacas y deseaba
+que se prohibiera su sacrificio. Cuando se redactó la
+Constitución india, ésta incluía un código de los dere
+chos de las vacas tan ridículo que poco le faltó para
+prohibir cualquier modalidad de matarlas. Desde en
+tonces, algunos estados han prohibido totalmente su sa
+crificio, pero otros todavía admiten excepciones. La
+cuestión de las vacas sigue siendo causa importante de
+disturbios y desórdenes no sólo entre los hindúes y las
+23
+La madre vaca
+restantes comunidades musulmanas, sino también entre
+el Partido del Congreso en el poder y las facciones hin
+dúes extremistas, defensores de las vacas. El 7 de no
+viembre de 1966, una muchedumbre de 120.000 perso
+nas, encabezada por un grupo de santones desnudos
+que cantaban adornados con guirnaldas de caléndulas y
+se habían untado con ceniza blanca de boñiga de vaca,
+hizo una manifestación contra el sacrificio de vacas ante
+la sede del Parlamento indio. Murieron 8 personas y 48
+resultaron heridas durante los disturbios que se produje
+ron a continuación. A estos acontecimientos siguió en
+todo el país una ola de ayunos entre los santones, enca
+bezados por Muni Shustril Kumar, presidente del Comi
+té Interpartidista para la Campaña de Protección de las
+Vacas.
+El amor a las vacas parece absurdo, incluso suicida, a
+los observadores occidentales familiarizados con las mo
+dernas técnicas industriales de la agricultura y la ganade
+ría. El experto en eficiencia anhela coger a todos estos
+animales inútiles y darles un destino adecuado. Sin em
+bargo, descubrimos ciertas incoherencias en la condena
+del amor a las vacas. Cuando empecé a pensar si podría
+existir una explicación práctica para la vaca sagrada, me
+encontré con un curioso informe del gobierno. Decía
+que la India tenía demasiadas vacas, pero muy pocos
+bueyes. Con tantas vacas en derredor ¿cómo podía ha
+ber escasez de bueyes? Los bueyes y el macho del búfalo
+de agua son la fuente principal de tracción para arar los
+campos en la India. Por cada granja de diez acres o me
+nos, se considera adecuado un par de bueyes o de búfa
+los de agua. Un poco de aritmética muestra que, en lo
+24Vacas, cerdos, guerras y brujas
+que atañe a la arada, hay en realidad escasez más que ex
+ceso de animales. La India tiene 60 millones de granjas,
+pero sólo 80 millones de animales de tracción. Si cada
+granja tuviera su cupo de dos bueyes o dos búfalos de
+agua, debería haber 120 millones de animales de trac
+ción, es decir, 40 millones más de los que realmente
+hay.
+Puede que este déficit no sea tan grave, puesto que al
+gunos agricultores alquilan o piden prestados bueyes a
+sus vecinos. Pero compartir animales de tiro resulta a me
+nudo poco práctico. La tarea de arar debe coordinarse
+con las lluvias monzónicas, y cuando ya se ha arado una
+granja, tal vez haya pasado el momento óptimo para arar
+otra. Además, una vez finalizada la arada, el agricultor
+necesita todavía su propio par de bueyes para tirar de su
+carreta, que es la base principal del transporte de bultos
+en toda la India rural. Es muy posible que la propiedad
+privada de granjas, ganado vacuno, arados y carretas de
+bueyes reduzca la eficiencia de la agricultura india, pero
+pronto me percaté de que esto no era provocado por el
+amor a las vacas.
+El déficit de animales de tiro constituye una amenaza
+terrible que se cierne sobre la mayor parte de las familias
+campesinas de la India. Cuando un buey cae enfermo, el
+campesino pobre se halla en peligro de perder su granja.
+Si no posee ningún sustituto, tendrá que pedir prestado
+dinero con unos intereses usurarios. Millones de familias
+rurales han perdido de hecho la totalidad o parte de sus
+bienes y se han convertido en aparceros o jornaleros
+como consecuencia de estas deudas. Todos los años cien
+tos de miles de agricultores desvalidos acaban emigran
+25
+La madre vaca
+do a las ciudades, que ya rebosan de personas sin empleo
+y sin hogar.
+El agricultor indio que no puede reemplazar su buey
+enfermo o muerto se encuentra poco más o menos en la
+misma situación que un agricultor americano que no
+pueda sustituir ni reparar su tractor averiado. Pero hay
+una diferencia importante: los tractores se fabrican en
+factorías, pero los bueyes nacen de las vacas. Un agricul
+tor que posee una vaca posee una factoría para producir
+bueyes. Con o sin amor a las vacas, ésta es una buena ra
+zón para tener poco interés en vender su vaca al matade
+ro. También empezamos a vislumbrar por qué los agri
+cultores indios podrían estar dispuestos a tolerar vacas
+que sólo producen 227 kilos de leche al año. Si la princi
+pal función económica de la vaca cebú es criar animales
+de tracción, entonces no hay ninguna razón para compa
+rarla con los especializados animales americanos cuya
+función primordial es producir leche. Sin embargo, la le
+che que producen las vacas cebú cumple un cometido
+importante en la satisfacción de las necesidades nutriti
+vas de muchas familias pobres. Incluso pequeñas canti
+dades de productos lácteos pueden mejorar la salud de
+personas que se ven obligadas a subsistir al borde de la
+inanición.
+Cuando los agricultores indios quieren un animal prin
+cipalmente para obtener leche recurren a la hembra del
+búfalo de agua, que tiene períodos de secreción de leche
+más largos y una producción de grasa de mantequilla
+mayor que la del ganado cebú. El búfalo de agua es tam
+bién un animal superior para arar en arrozales anegados.
+Pero los bueyes tienen más variedad de usos y los agri

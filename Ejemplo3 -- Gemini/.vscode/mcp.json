@@ -1,0 +1,62 @@
+{
+  "servers": {
+    "ChatAOS": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "mis-mcp-tools",
+        "python",
+        "fast_mcp_ex_1.py"
+      ]
+    },
+    "ChatAOS2": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "mis-mcp-tools",
+        "python",
+        "fast_mcp_ex_2.py"
+      ]
+    },
+    "TextSintetizer": {
+    "command": "docker",
+    "args": [
+        "run",
+        "-i",
+        "--rm",
+        // Montamos la carpeta local en /app
+        "-v", "C:/Users/ruben/Desktop/Universidad/AOS/FastMCP:/app",
+        "mis-mcp-tools",
+        "python",
+        "fast_mcp_ex_3.py" // <--- ESTE ARCHIVO DEBE EXISTIR EN TU CARPETA DE WINDOWS
+    ]
+    },
+    "NASA_Analyzer": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-v", "C:/Users/ruben/Desktop/Universidad/AOS/FastMCP:/app",
+        "mis-mcp-tools",
+        "python",
+        "fast_mcp_ex_4.py"
+      ]
+    },
+    "NumberGuesser": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "mis-mcp-tools",
+        "python",
+        "ejercicio.py"
+      ]
+    }
+  }
+}

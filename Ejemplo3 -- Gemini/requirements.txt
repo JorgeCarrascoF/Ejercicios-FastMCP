@@ -1,0 +1,10 @@
+fastmcp>=0.1.0
+uvicorn
+pandas
+scikit-learn
+joblib
+imbalanced-learn
+matplotlib
+seaborn
+radon
+fpdf

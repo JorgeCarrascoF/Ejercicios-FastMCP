@@ -15,20 +15,10 @@ Este proyecto integra un servicio de inventario desarrollado en Spring Boot (Jav
 
 ## Construcción y Ejecución
 
-1. **Construir la imagen Docker:**
+1. **Construir y ejecutar la imagen Docker:**
 
    Abre una terminal en la raíz del proyecto y ejecuta:
 
    ```powershell
-   docker build -t inventario-mcp .
+   docker-compose up --build
    ```
-
-2. **Ejecutar el contenedor:**
-
-   ```powershell
-   docker run -p 8001:8001 -p 8083:8083 inventario-mcp
-   ```
-
-   - El servicio Spring Boot estará disponible en `http://localhost:8083`
-   - El servidor FastMCP estará disponible en `http://localhost:8001`
-   
