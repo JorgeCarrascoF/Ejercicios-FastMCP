@@ -1,0 +1,52 @@
+version: "3.9"
+services:
+  opencode:
+    build: ./opencode-aos
+    container_name: opencode-aos
+    ports:
+      - "3001:3001"
+    networks:
+      - fastmcp_net
+  ejercicio1:
+    build: "./Ejemplo1 -- Servidor y cliente MCP/servidorMCP"
+    container_name: ejercicio1
+    ports:
+      - "3002:8000"
+    networks:
+      - fastmcp_net
+  inventario:
+    build: "./Ejemplo2 -- OpenAPI/inventario"
+    container_name: inventario
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/inventario_db
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: 12345
+    depends_on:
+      - postgres
+    networks:
+      - fastmcp_net
+  ejercicio2_mcp:
+    build: "./Ejemplo2 -- OpenAPI/servidorMCP"
+    container_name: servidor-mcp
+    ports:
+      - "3004:8001"
+    depends_on:
+      - inventario
+    networks:
+      - fastmcp_net
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: inventario_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 12345
+    ports:
+      - "5432:5432"
+    networks:
+      - fastmcp_net
+
+networks:
+  fastmcp_net:
+    driver: bridge
