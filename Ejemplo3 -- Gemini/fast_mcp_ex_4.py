@@ -74,4 +74,4 @@ def auditar_calidad_codigo(ruta_archivo: str) -> str:
         return f"Error interno: {str(e)}"
 
 if __name__ == "__main__":
-    server.run()
+    server.run(transport="sse", host="0.0.0.0", port=8000)

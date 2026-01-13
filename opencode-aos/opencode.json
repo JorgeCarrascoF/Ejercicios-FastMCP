@@ -12,5 +12,25 @@
       "url": "http://servidor-mcp:8001/sse",
       "enabled": true
     },
+    "chat_aos_1": {
+      "type": "remote",
+      "url": "http://gemini_ex1:8000/sse",
+      "enabled": true
+    },
+    "chat_aos_2": {
+      "type": "remote",
+      "url": "http://gemini_ex2:8000/sse",
+      "enabled": true
+    },
+    "sintetizador": {
+      "type": "remote",
+      "url": "http://gemini_ex3:8000/sse",
+      "enabled": true
+    },
+    "nasa_analyzer": {
+      "type": "remote",
+      "url": "http://gemini_ex4:8000/sse",
+      "enabled": true
+    }
   }
 }

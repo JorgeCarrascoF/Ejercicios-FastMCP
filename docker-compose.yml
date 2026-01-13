@@ -1,12 +1,30 @@
 version: "3.9"
+
 services:
+  # --- Cliente Principal ---
   opencode:
     build: ./opencode-aos
     container_name: opencode-aos
     ports:
       - "3001:3001"
+    environment:
+      # Lista de servidores para que OpenCode sepa dónde conectarse
+      MCP_SERVERS: >
+        http://ejercicio1:8000/sse,
+        http://servidor-mcp:8001/sse,
+        http://gemini_ex1:8000/sse,
+        http://gemini_ex2:8000/sse,
+        http://gemini_ex3:8000/sse,
+        http://gemini_ex4:8000/sse
     networks:
       - fastmcp_net
+    depends_on:
+      - ejercicio1
+      - ejercicio2_mcp
+      - gemini_ex1
+      - gemini_ex2
+
+  # --- Ejercicio 1 ---
   ejercicio1:
     build: "./Ejemplo1 -- Servidor y cliente MCP/servidorMCP"
     container_name: ejercicio1
@@ -14,6 +32,8 @@ services:
       - "3002:8000"
     networks:
       - fastmcp_net
+
+  # --- Ejercicio 2 (API + MCP) ---
   inventario:
     build: "./Ejemplo2 -- OpenAPI/inventario"
     container_name: inventario
@@ -27,15 +47,67 @@ services:
       - postgres
     networks:
       - fastmcp_net
+
   ejercicio2_mcp:
     build: "./Ejemplo2 -- OpenAPI/servidorMCP"
     container_name: servidor-mcp
     ports:
       - "3004:8001"
+    environment:
+      INVENTARIO_API_URL: "http://inventario:8080"
     depends_on:
       - inventario
     networks:
       - fastmcp_net
+
+  # --- Ejercicio 3 (Gemini / FastMCP) - 4 Servidores ---
+  
+  # Servidor 1: ChatAOS
+  gemini_ex1:
+    build: "./Ejemplo3 -- Gemini"
+    container_name: gemini_ex1
+    command: python fast_mcp_ex_1.py
+    ports:
+      - "3005:8000"
+    networks:
+      - fastmcp_net
+
+  # Servidor 2: ChatAOS2
+  gemini_ex2:
+    build: "./Ejemplo3 -- Gemini"
+    container_name: gemini_ex2
+    command: python fast_mcp_ex_2.py
+    ports:
+      - "3006:8000"
+    networks:
+      - fastmcp_net
+
+  # Servidor 3: TextSintetizer (Requiere volúmenes según tu JSON)
+  gemini_ex3:
+    build: "./Ejemplo3 -- Gemini"
+    container_name: gemini_ex3
+    command: python fast_mcp_ex_3.py
+    ports:
+      - "3007:8000"
+    volumes:
+      # Montamos la carpeta actual para que pueda leer/escribir archivos como en tu mcp.json
+      - "./Ejemplo3 -- Gemini:/app"
+    networks:
+      - fastmcp_net
+
+  # Servidor 4: NASA_Analyzer
+  gemini_ex4:
+    build: "./Ejemplo3 -- Gemini"
+    container_name: gemini_ex4
+    command: python fast_mcp_ex_4.py
+    ports:
+      - "3008:8000"
+    volumes:
+      - "./Ejemplo3 -- Gemini:/app"
+    networks:
+      - fastmcp_net
+
+  # --- Base de Datos ---
   postgres:
     image: postgres:15
     environment:
