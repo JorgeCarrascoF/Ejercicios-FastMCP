@@ -67,4 +67,4 @@ def create_pdf_summary(summary_text: str, filename: str = "resumen.pdf") -> str:
         return f"Error: {str(e)}"
 
 if __name__ == "__main__":
-    server.run()
+    server.run(transport="sse", host="0.0.0.0", port=8000)

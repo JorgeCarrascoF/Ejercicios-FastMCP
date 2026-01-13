@@ -34,4 +34,4 @@ def hacer_intento(numero: int) -> str:
         return "¡CORRECTO! Has adivinado el número. Fin del juego."
 
 if __name__ == "__main__":
-    mcp.run()
+    mcp.run(transport="sse", host="0.0.0.0", port=8000)
